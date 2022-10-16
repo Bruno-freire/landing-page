@@ -1,4 +1,4 @@
 # landing-page
-Em fase de construção, falta ajustar a responsividade, criado apenas para 1440px no momento.
+Colocando em prática alguns conhecimentos sem js.
 
 Segue o link para acessar o site: https://bruno-freire.github.io/landing-page/
