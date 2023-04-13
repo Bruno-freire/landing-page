@@ -17,4 +17,4 @@ Feel free to customize the landing page to fit your needs.
 
 The images used in this landing page are from Frontend Mentor, a website that provides challenges to help improve frontend coding skills. The styles for the page were written by the creator of this repository.
 
-Segue o link para acessar o site: https://bruno-freire.github.io/landpage/
+Follow the link to access the website: https://bruno-freire.github.io/landpage/
